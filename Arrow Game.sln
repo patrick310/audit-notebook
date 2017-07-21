@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow Game", "Arrow Game.csproj", "{BB73A0C6-8478-C45D-1636-5C35154944FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow Game.Editor", "Arrow Game.Editor.csproj", "{D4D486E2-A713-1DF2-0F14-282913C326A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB73A0C6-8478-C45D-1636-5C35154944FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB73A0C6-8478-C45D-1636-5C35154944FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB73A0C6-8478-C45D-1636-5C35154944FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB73A0C6-8478-C45D-1636-5C35154944FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D486E2-A713-1DF2-0F14-282913C326A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D486E2-A713-1DF2-0F14-282913C326A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D486E2-A713-1DF2-0F14-282913C326A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D486E2-A713-1DF2-0F14-282913C326A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
